@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @eimenhmdt
-- 👀 I’m a PhD candidate @ RWTH Aachen University
+- 👀 I’m a PhD candidate in Computational Public Policy @ RWTH Aachen University
 - 📙 I'm currently learning Julia.
-- 📫 How to reach me: https://www.linkedin.com/in/eimenhamedat/
+- 📫 Website: https://eimenhamedat.com
 
 [![Eimen's GitHub stats](https://github-readme-stats.vercel.app/api?username=eimenhmdt)](https://github.com/eimenhmdt/github-readme-stats)
 
