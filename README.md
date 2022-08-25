@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @eimenhmdt
-- 👀 I’m a PhD candidate in Computational Public Policy @ RWTH Aachen University
-- 📙 I'm currently learning Julia.
+- 🫶 Full stack developer
+- 👀 I like using code to create transformational products
 - 📫 Website: https://eimenhamedat.com
 
 [![Eimen's GitHub stats](https://github-readme-stats.vercel.app/api?username=eimenhmdt)](https://github.com/eimenhmdt/github-readme-stats)
