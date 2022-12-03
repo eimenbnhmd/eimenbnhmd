@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @eimenhmdt
-- 🫶 Full stack developer
-- 👀 I like using code to create transformational products
+- 🫶 Full stack developer (I mainly work with Next.js & Blitz.js)
+- 👀 I enjoy working on transformational products
 - 📫 Website: https://eimenhamedat.com
 
 
