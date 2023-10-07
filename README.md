@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @eimenhmdt
+- 👋 Hi, I’m Eimen
 - 🫶 Social scientist turned engineer
 - 👀 I enjoy working on transformational products
 - 🏗️ Currently building https://isaaceditor.com
