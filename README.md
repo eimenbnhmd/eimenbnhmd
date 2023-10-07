@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @eimenhmdt
-- 🫶 Full stack developer (I mainly work with Next.js & Blitz.js)
+- 🫶 Social scientist turned engineer
 - 👀 I enjoy working on transformational products
+- 🏗️ Currently building https://isaaceditor.com
 - 📫 Website: https://eimenhamedat.com
 
 
