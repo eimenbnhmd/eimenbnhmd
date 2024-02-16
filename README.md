@@ -2,7 +2,6 @@
 - 🫶 Social scientist turned engineer
 - 👀 I enjoy working on transformational products
 - 🏗️ Currently building https://isaaceditor.com
-- 📫 Website: https://eimenhamedat.com
 
 
 <!---
